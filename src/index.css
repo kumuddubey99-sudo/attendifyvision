@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+  input, select, textarea, button {
+    outline-color: #2563eb;
+  }
+}

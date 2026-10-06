@@ -1,0 +1,10 @@
+{
+  "name": "Student Attendance System With Face Recognition",
+  "description": "Face recognition based student attendance system supporting any stream, classroom photo attendance, and subject-wise reports by Gulshan Gaund, Manoj Prajapati, Ritesh Gupta.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
